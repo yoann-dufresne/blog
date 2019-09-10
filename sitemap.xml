@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>https%3A//blog.pierre.marijon.fr/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//blog.pierre.marijon.fr/binary-mapping-format/</loc>
+            
+                <lastmod>2018-10-11</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//blog.pierre.marijon.fr/long-reads-overlapper-compare/</loc>
+            
+                <lastmod>2018-04-13</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//blog.pierre.marijon.fr/why-i-stopped-c/</loc>
+            
+                <lastmod>2018-11-12</lastmod>
+            
+        </url>
+    
+</urlset>
